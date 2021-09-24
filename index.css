@@ -1,0 +1,73 @@
+.firstdiv{
+    background-color: grey;
+    height: 1200px;
+}
+
+.firstdiv img{
+    width: 150px;
+    height: 160px;
+    margin-top: 50px;
+  
+}
+
+.firstdiv h6{
+    font-size: smaller;
+}
+
+.lorem{
+    font-weight: 400;
+    line-height: 18px;
+}
+
+
+/* SECOND SECTION */
+.seconddiv{
+    background-color: rgb(239, 247, 248);
+    height: 1200px;
+}
+
+.heads{
+    background-color: rgb(255, 200, 149);
+    width: 500px;
+    height: 40px;
+    margin-top: 50px;
+}
+
+.heads h5{
+    padding: 10px;
+}
+.l{
+    font-size: smaller;
+    line-height: 22px;
+    font-weight: 400;
+}
+
+.mid{
+    background-color: rgb(255, 200, 149);
+    width: 500px;
+    height: 40px;
+    margin-top: 330px; 
+}
+.mid h5{
+    padding: 10px;
+}
+
+.end{
+    background-color: rgb(255, 200, 149);
+    width: 500px;
+    height: 40px;
+    margin-top: 330px; 
+}
+
+.end h5{
+    padding: 10px;
+}
+.align{
+    display: flex;
+}
+.align h5{
+
+    font-size: 18px;
+    padding: 10px;
+
+}
