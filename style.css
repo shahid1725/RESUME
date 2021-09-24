@@ -1,6 +1,7 @@
 .firstdiv{
     background-color: grey;
     height: 1200px;
+
 }
 
 .firstdiv img{
@@ -70,4 +71,25 @@
     font-size: 18px;
     padding: 10px;
 
+}
+
+
+@media (max-width:400px){
+    .heads{
+        width: 250px;
+    }
+    .mid{
+        margin-top:450px;
+        width: 250px;
+        height: 65px;
+    }
+    .end{
+        margin-top:450px;
+        width: 250px;
+        height: 65px;
+    }
+    .seconddiv{
+        height: 1520px;
+    }
+  
 }
